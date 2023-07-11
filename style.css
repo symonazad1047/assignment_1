@@ -1,0 +1,231 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.part1{
+
+    height:100vh;
+    background: rgba(229, 84, 115, 0.10);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.photo{
+    width: 480px;
+    height: 640px;
+    padding-top: 30px;
+}
+.image{
+    
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    line-height: 50px;
+}
+.description{
+    font-size: 15px;
+    line-height: 1.4em;
+    margin: 10px 0;
+}
+.primary-button{
+    background-color: rgba(168, 5, 40 );
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+.Featured{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.title2{
+    margin-bottom: 15px;
+}
+.special{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.image2{
+    height: 400px;
+    width: 300px;
+}
+.img1{
+width: 250px; 
+background-color: rgba(167, 33, 98, 0.15);;
+border-radius: 300px 300px 0px 0px;
+height: 280px;
+padding: 20px 20px 0px 20px;
+}
+.img2{
+    width: 250px; 
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    height: 280px;
+    padding: 20px 20px 0px 20px;
+}
+.img3{
+    width: 250px; 
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    height: 280px;
+    padding: 20px 20px 0px 20px;
+}
+.tree{
+    text-align: center;
+    padding: 20px;
+    
+}
+.off{
+    color: #E55473;
+}
+.FlowerShop{
+    height: auto;
+    width: auto;
+    padding: 60px;
+    justify-content: center;
+    background-color:  #111010;;
+    text-align: center;
+}
+.color{
+    color: rgba(232, 227, 227, 0.9);
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 20px;
+}
+.special2{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+    width: 800px;
+    height: 150px;
+    margin: 180px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    justify-content: space-around;
+}
+.sale1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 50px;
+}
+.sale{
+    align-items: center;
+    text-align: center;
+}
+.title3{
+    padding: 20px;
+}
+.Instagram{
+    height: auto;
+    width: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 80px;
+}
+.social{
+    padding: 5px;
+}
+.all{
+    display: flex;
+    width: 130px;
+    padding: 85px;
+}
+.type{
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+}
+.shop{
+  
+}
+.reserved{
+    padding: 10px;
+    color: rgba(139, 131, 131, 0.9) ;
+}
+.me{
+    display: flex;
+    align-items: center;
+}
+.Subscribe{
+    padding: 40px;
+}
+.head{
+    background-image: url("./Flower_Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 8px;
+    height: 30vh;
+}
+.center{
+    align-items: center;
+    text-align: center;
+}
+.deal{
+    padding: 10px;
+}
+.email{
+    color: white;
+    padding: 20px 20px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 2px;
+    width: 350px;
+}
+.im{
+    height: 300px;
+    width: 300px;
+    border-radius: 400px;
+    padding: 10px;
+    justify-content: space-around;
+  }
+  .some{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgba(139, 131, 131, 0.9);
+    border-radius: 1000px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+.description{
+    align-self: center;
+}
+.craete-title{
+    font-style: italic;
+    text-align: center;
+    color: rgba(168, 5, 40 );
+    padding: 20px;
+}
+.create-description{
+
+    align-items:center ;
+    text-align: center;
+}
+.from-control{
+margin-left: 220px;
+margin-top: 50px;
+}
